@@ -7,4 +7,3 @@ metadata:
     app: mysql
 data:
   mysql_db: "devops"
-  user: "rahul"
